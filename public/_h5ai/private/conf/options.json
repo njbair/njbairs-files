@@ -66,7 +66,7 @@
         "fastBrowsing": true,
         "fonts": ["Ubuntu", "Roboto", "Helvetica", "Arial", "sans-serif"],
         "fontsMono": ["Ubuntu Mono", "Monaco", "Lucida Sans Typewriter", "monospace"],
-        "hidden": ["^\\.", "^_h5ai"],
+        "hidden": ["^\\.", "^_h5ai", "^_"],
         "hideFolders": false,
         "hideIf403": true,
         "hideParentFolder": false,
