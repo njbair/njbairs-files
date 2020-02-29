@@ -1,0 +1,24 @@
+{
+  "name": "njbairs-files",
+  "version": "1.0.0",
+  "description": "file index for njbair",
+  "main": "index.js",
+  "scripts": {
+    "build": "bash scripts/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njbair/njbairs-files.git"
+  },
+  "author": "Nick Bair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njbair/njbairs-files/issues"
+  },
+  "homepage": "https://github.com/njbair/njbairs-files#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "h5ai": "git+https://github.com/lrsjng/h5ai.git",
+    "json5": "^2.1.1"
+  }
+}

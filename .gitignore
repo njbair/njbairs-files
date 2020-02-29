@@ -1,3 +1,4 @@
 /public/images/*
 !/public/images/.gitkeep
-/public/_h5ai/public/cache/thumbs/
+/public/_h5ai/*
+/node_modules/*
